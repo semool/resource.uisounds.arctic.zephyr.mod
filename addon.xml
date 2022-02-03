@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.arctic.zephyr.mod" version="1.0.1" name="Arctic: Zephyr - Reloaded - UI Sounds" provider-name="semool">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">arctic.zephyr.mod GUI sounds</summary>
+    <description lang="en">arctic.zephyr.mod GUI sounds. Original created for the Nebula skin by Tgx</description>
+    <platform>all</platform>
+    <assets>
+       <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
